@@ -1,0 +1,96 @@
+.container1{
+  display: flex;
+  height:40rem;
+  width: 27rem;
+  justify-content: center;
+  margin: 3rem 20rem 0rem 35rem;
+  background-color: #b38fb3;
+  border-radius: 20px;
+  
+  body{
+    padding: 5rem 20rem 0rem 20rem;
+  }
+  
+ 
+  
+}
+.form-control{
+  height: 3rem;
+  width: 20rem;
+  border-radius: 25px;
+  border: 5px;
+  border-color: #ababab;
+  font-size: 1.3rem;
+  margin-left: 3rem;
+   font-weight: bold;
+  
+}
+.hello{
+  text-align: center;
+  font-size: 2.5rem;
+  color:white;
+  margin: 15px;
+  padding: 0;
+}
+
+
+#magnify{
+  
+  font-size: 1.5rem;
+  background-color: white;
+ background-size: 40px;
+  border-radius: 50%;
+}
+
+#cloud
+{
+  display: flex;
+  font-size: 8rem;
+  color: #fedd06;
+  justify-content: center;
+  margin-top: 30px;
+  
+}
+.temp{
+  color: #e8e9e8;
+  font-size: 5rem;
+  text-align: center;
+  margin: 20px 0 0 0;
+   font-weight: bold;
+}
+.city{
+  color: #e8e9e8;
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 0;
+   font-weight: bold;
+}
+#humidity{
+  margin-left: 50px;
+  font-size: 2rem;
+   color: #e8e9e8;
+}
+.humidity{
+  margin-right: 50px;
+  margin-left: 85px;
+  color: #e8e9e8;
+   font-weight: bold;
+}
+#windspeed{
+  margin-right: 50px;
+  margin-left: 95px;
+  color: #e8e9e8;
+   font-weight: bold;
+}
+.values{
+  margin-right: 40px;
+  font-size: 1.5rem;
+  color: #e8e9e8;
+ font-weight: bold;
+}
+#wind{
+  margin-left: 90px;
+  font-size: 2rem;
+  color: #e8e9e8;
+  
+}
